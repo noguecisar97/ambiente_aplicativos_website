@@ -5,7 +5,7 @@
 echo ''
 echo 'Inicio do pre-commit.'
 echo ''
-yarn lint-staged TERM=xterm-256color
+yarn lint-staged
 echo ''
 echo 'Inicio do test.'
 echo ''
