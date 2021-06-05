@@ -36,4 +36,21 @@ alterando seu e-mail e nome de usuario </p>
   </code>
 </pre>
 
+<p>Recomendado ao fazer commit</p>
+
+<pre>
+  <code>
+    yarn commit
+  </code>
+</pre>
+
+<p>Examplo como ficaria com git no terminal:</p>
+
+<pre>
+  <code>
+    git add . && git commit -m "feat: nova maneira de dar commit adicionado"
+  </code>
+</pre>
+
+
 

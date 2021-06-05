@@ -2,7 +2,6 @@
 /node_modules
 /.pnp
 .pnp.js
-/.vscode
 **/__snapshots__
 *.snap
 
