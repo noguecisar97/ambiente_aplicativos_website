@@ -75,6 +75,7 @@ module.exports = {
         "prefer-const": WARNING,
         "react/prop-types": OFF,
         "semi": [WARNING, "never"],
+        "linebreak-style": 0
       },
     },
   ],
