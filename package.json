@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "dotenv": "^10.0.0",
-    "next": "10.2.3",
+    "next": "11.1.2",
     "react": "17.0.2",
     "react-dom": "17.0.2"
   },
@@ -57,8 +57,7 @@
   },
   "lint-staged": {
     "*.{ts,tsx}": [
-      "eslint '*/**/*.{ts,tsx}' --fix --max-warnings=0",
-      "cross-env CI=true yarn test --bail --findRelatedTests"
+      "eslint '*/**/*.{ts,tsx}' --fix --max-warnings=0"
     ]
   },
   "config": {
